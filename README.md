@@ -29,7 +29,7 @@ Me chamo Rayane Porto de Jesus Fonseca, tenho 23 anos e sou natural de Resende -
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
+<br></br>
 ### Let's connect? 🤝 
  
 <a href="https://www.linkedin.com/in/rayane-porto-b84b272b0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
