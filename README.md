@@ -32,7 +32,7 @@ Me chamo Rayane Porto de Jesus Fonseca, tenho 23 anos e sou natural de Resende -
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-fonseca&layout=compact&count_private=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rayane-fonseca&count_private=true&show_icons=true)
+
 
 ### Let's connect? 🤝 
  <br></br>
