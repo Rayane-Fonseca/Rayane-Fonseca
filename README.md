@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rayane Fonseca
 
-**Estudante de Programação** **´Estudante de Programação´**
+**Estudante de Programação** **`Estudante de Programação`**
 
 Me chamo Rayane Porto de Jesus Fonseca, tenho 23 anos e sou natural de Resende - RJ. Concluí o ensino médio no ano de 2019. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI - Firjan. 
 
