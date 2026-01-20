@@ -38,8 +38,7 @@ Me chamo Rayane Porto de Jesus Fonseca, tenho 23 anos e sou natural de Resende -
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<br></br>
-### ⚙️ Analytics 
+
 
 ### 🤝 Let's connect? 
 
