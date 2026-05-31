@@ -4,7 +4,7 @@
 
 **Estudante de Programação** • Apaixonada por tecnologia e desenvolvimento web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-fonseca-b84b272b0)
+
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Vamos_nos_conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-fonseca-b84b272b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-fonseca-b84b272b0)
 
 </div>
 
