@@ -1,47 +1,70 @@
-# 👩🏻‍💻 Rayane Fonseca
+<div align="center">
 
-**`Estudante de Programação`**
-<br>
-Me chamo Rayane Porto de Jesus Fonseca, tenho 23 anos e sou natural de Resende - RJ. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI - Firjan. 
-<br>
-### 🤖 Linguagens e Tecnologias
-<br>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+# Olá, eu sou a Rayane Fonseca 👋
 
-<br>
-### 🤝 Let's connect? 
+**Estudante de Programação** • Apaixonada por tecnologia e desenvolvimento web
 
-<a href="https://www.linkedin.com/in/rayane-porto-b84b272b0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/rportodj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:rayane15526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-fonseca-b84b272b0)
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudante de programação, sempre aprendendo algo novo
+- 🌐 Focada em desenvolvimento web com **HTML, CSS, JavaScript e PHP**
+- 🚀 Construindo projetos para solidificar meu conhecimento
+- 💡 Curiosa por natureza e apaixonada por transformar ideias em código
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+</div>
+
+---
+
+## 🗂️ Projetos em Destaque
+
+> 🚧 Em breve! Estou construindo meu portfólio com projetos incríveis.
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Vamos_nos_conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-fonseca-b84b272b0)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Todo especialista já foi um iniciante."* ✨
+
+</div>
