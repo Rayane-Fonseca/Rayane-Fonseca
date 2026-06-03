@@ -39,8 +39,7 @@
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats-seu-usuario.vercel.app/api?username=Rayane-Fonseca&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Rayane-Fonseca&theme=tokyonight&hide_border=true&locale=pt_BR)
 ![Linguagens mais usadas](https://github-readme-stats-seu-usuario.vercel.app/api/top-langs/?username=Rayane-Fonseca&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
