@@ -38,6 +38,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayane-Fonseca&theme=tokyonight)
   
 ![](https://img.shields.io/github/stars/Rayane-Fonseca?style=for-the-badge&theme=tokyonight)
 
