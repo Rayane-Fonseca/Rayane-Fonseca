@@ -49,7 +49,13 @@
 
 ## 🗂️ Projetos em Destaque
 
-> 🚧 Em breve! Estou construindo meu portfólio com projetos incríveis.
+<div align="center">
+
+[![GearUp](https://github-readme-stats.vercel.app/api/pin/?username=Rayane-Fonseca&repo=GearUp&theme=tokyonight&hide_border=true)](https://github.com/Rayane-Fonseca/GearUp)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Rayane-Fonseca&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/Rayane-Fonseca/Portfolio)
+
+</div>
 
 ---
 
