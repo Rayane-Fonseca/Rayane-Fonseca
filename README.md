@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Rayane Fonseca 👋
 
-**Estudante de Programação** • Apaixonada por tecnologia e desenvolvimento web
+**Estudante de Programação** • Apaixonada por tecnologia e Desenvolvimento web
 
 
 
